@@ -5,10 +5,10 @@ for letter in name:
     print(letter)
 
 
-y = input ("type in a number from 0-10")
+y = input ("type in a number from 0-10.")
+number = y
 print(y)
-""" number = y
-if input(1,3,5,7,9):
-print = "odd"
-elif number == (0,2,4,6,8,10)
-print = "even" """
+if input == (1,3,5,7,9):
+    print == "odd"
+elif number == (0,2,4,6,8,10):
+    print == "even" 
