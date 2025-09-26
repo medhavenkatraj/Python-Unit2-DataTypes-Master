@@ -15,8 +15,8 @@ else:
 
 
 x = input("pick a number from 1-10 and i will see if it is a factor of 2. ")
-def factors (x,y):
-    if int(x) % y == 2:
+print(input)
+if int(x) % 2 == 2:
         print("factor")
-    else:
+else:
         print("not a factor") 
